@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rochika10
 - 👀 I’m interested in C,C++ and Python
-- 🌱 I’m currently learning Web development and R language
+- 🌱 I’m currently learning Web development,AI,ML and R language
 - 📫 How to reach me- rochikagarg10@gmail.com
 
 <!---
