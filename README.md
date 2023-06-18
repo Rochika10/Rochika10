@@ -13,8 +13,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rochika10&show_icons=true&locale=en" alt="Rochika10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rochika10&" alt="Rochika10" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rochika10&show_icons=true&locale=en&layout=compact" alt="Rochika10" /></p>
 <!---
 Rochika10/Rochika10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
