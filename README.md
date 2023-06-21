@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Rochika10
-- 👀 I’m interested in C,C++ and Python
-- 🌱 I’m currently learning Web development,AI,ML and R language
+- 👋 Hi, I am Rochika Garg
+- 🎓 I am currently pursuing my Bachelor's in Electronics and Computer Engineering
+- 👀 I am interested in C,C++ and Python
+- 🌱 I am currently learning Web development,AI,ML and R language
 - 📫 How to reach me- rochikagarg10@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rochika10&label=Profile%20views&color=0e75b6&style=flat" alt="Rochika10" /> </p>
 <h3 align="left">Connect with me:</h3>
